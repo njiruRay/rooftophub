@@ -11,7 +11,7 @@ body{
   padding-top:120px;
 }
 
-/* ===== HEADER ===== */
+
 .site-header{
   position: fixed;
   top: 0;
@@ -24,7 +24,7 @@ body{
     0 8px 24px rgba(215,155,1,0.18);
 }
 
-/* ===== NAVBAR BASE STYLING ONLY ===== */
+
 .site-logo{
   height: 90px;
   width: auto;
@@ -65,7 +65,7 @@ body{
   color:#fff !important;
 }
 
-/* ===== HERO ===== */
+
 .hero{
   position: relative;
   width: 100%;
@@ -88,7 +88,7 @@ body{
   background: rgba(0,0,0,0.25);
 }
 
-/* ===== SECTION HEADINGS ===== */
+
 .section-heading{
   font-weight:800;
   letter-spacing: 1px;
@@ -96,7 +96,7 @@ body{
   margin-bottom: 0.2rem;
 }
 
-/* ===== WELCOME ===== */
+
 .welcome-inner{
   max-width: 980px;
 }
@@ -108,7 +108,7 @@ body{
   max-width: 900px;
 }
 
-/* ===== FACILITIES ===== */
+
 .facility-tile{
   position: relative;
   display:block;
@@ -153,7 +153,7 @@ body{
   transform: scale(1.10);
 }
 
-/* ===== WHY SECTION ===== */
+
 .why{
   position: relative;
   overflow: hidden;
@@ -219,7 +219,7 @@ body{
   opacity: 0.9;
 }
 
-/* ===== MAP ===== */
+
 .map-wrap{
   border-radius: 2px;
   overflow:hidden;
@@ -232,12 +232,12 @@ body{
   border:0;
 }
 
-/* ===== PAGE PLACEHOLDER SECTIONS ===== */
+
 .page-section{
   min-height: 50vh;
 }
 
-/* ===== FOOTER ===== */
+
 .site-footer{
   background:#000;
   color:#fff;

@@ -48,9 +48,7 @@
   text-shadow: 0 6px 20px rgba(0,0,0,0.35);
 }
 
-/* =========================
-   SECTIONS
-========================= */
+
 .cw-section{
   padding: 28px 0;
 }
@@ -91,9 +89,7 @@
   font-weight: 800;
 }
 
-/* =========================
-   CAROUSEL / SLIDER
-========================= */
+
 .cw-slider{
   padding-top: 16px;
   padding-bottom: 16px;
@@ -120,9 +116,7 @@
   display:block;
 }
 
-/* =========================
-   RATES
-========================= */
+
 .cw-rates{
   padding-bottom: 46px;
 }
@@ -142,9 +136,7 @@
   margin: 0 0 10px 0;
 }
 
-/* =========================
-   BOOK BUTTON
-========================= */
+
 .cw-book-wrap{
   display:flex;
   justify-content:center;
@@ -199,9 +191,6 @@
   transform: translateY(-1px);
 }
 
-/* =========================
-   RESPONSIVE
-========================= */
 @media (max-width: 991.98px){
   .cw-intro-text{ font-size: 1.02rem; }
   .cw-rate-card{ padding: 18px 16px; }

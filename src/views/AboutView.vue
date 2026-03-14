@@ -8,7 +8,7 @@
       <div class="about-hero-overlay"></div>
 
       <div class="container text-center">
-        <h1 class="about-title">About Rooftop Hub</h1>
+        <h1 class="about-title">About Rooftop Creatives Hub</h1>
         <p class="about-tagline">
           A modern workspace designed for collaboration, creativity and growth.
         </p>
@@ -19,11 +19,13 @@
       <div class="container">
         <div class="about-intro">
           <p>
-            Rooftop Hub is more than just a workspace. It is a dynamic community
-            where entrepreneurs, startups, creatives and professionals come
-            together to work, collaborate and grow. Located in the heart of
-            Nairobi, we provide inspiring spaces designed to support
-            productivity and innovation.
+            Rooftop Creatives Hub is a creative and professional space designed to bring people, ideas and 
+            opportunities together. We provide flexible workspaces, a rooftop work environment and a
+             fully equipped podcast studio that supports creators, entrepreneurs, and teams looking for a 
+             space to grow and collaborate. Our rooftop also serves as a unique venue for events, conversations 
+             and community experiences. At Rooftop Creatives Hub, we are building more than a place to work, we are building 
+             a space where productivity, creativity and meaningful connections thrive.
+
           </p>
         </div>
       </div>
@@ -76,18 +78,14 @@
           </div>
 
           <div class="col-lg-6">
-            <h2>Our Mission</h2>
+            
             <p>
-              Our mission is to create an environment where ideas flourish,
-              businesses grow and people connect. We believe that the right
-              workspace can inspire creativity and unlock new opportunities
-              for individuals and teams alike.
-            </p>
+              Step into a place where ideas take shape, creativity finds its voice 
+              and people come together to build something meaningful. Here, every space is designed 
+              to support how you work, create and connect. Whether you're collaborating, recording, hosting
+               or simply getting things done, we offer an environment that encourages growth, fresh thinking
+                and new opportunities. Welcome to a space where work meets possibility.
 
-            <p>
-              Whether you need a desk for the day, a meeting space for your
-              team or a vibrant community to grow your network, Rooftop Hub
-              provides the space and support to make it happen.
             </p>
           </div>
         </div>

@@ -13,10 +13,12 @@
     <div class="container text-center welcome-inner">
       <h2 class="section-heading">WELCOME TO THE ROOFTOP</h2>
       <p class="welcome-text mx-auto">
-        Working at home is great but unifying your teams’ efforts increases productivity and makes you achieve more.
-        Also, connecting with others outside your team widens your network and perspective. As a member of Rooftop,
-        you get more than an office space — you benefit from value-added services that give your business the edge
-        to stay ahead.
+        At Rooftop Creatives Spot, we believe work should happen in spaces that inspire connection and creativity. 
+        That’s why we’ve created more than just a workspace, we offer a flexible hub where professionals, creators 
+        and teams can work, create and connect. From modern office workspaces and a relaxed rooftop working area to a
+         fully equipped podcast studio for creatives and a rooftop venue for events and networking, we bring everything 
+         together in one place to support productivity, creativity and meaningful collaboration.
+
       </p>
     </div>
   </section>
@@ -106,12 +108,11 @@ const facilities = [
 ]
 
 const whyPoints = [
-  'Flexible membership plans to suit your schedule and budget.',
-  'Ample Parking plus Security',
+  'Flexible membership plans to suit your schedule and budget',
+  'Secure Parking Spaces for hassle-free commuting',
   'Conducive environment for creativity',
-  'Modern and stylish workspaces designed for comfort and productivity.',
-  'High-speed internet and top-notch amenities at your fingertips.',
-  'Access to exclusive networking events and workshops.',
-  'A supportive community that encourages growth and success.'
+  'Modern and stylish workspaces designed for comfort and productivity',
+  'High-speed internet and top-notch amenities',
+  'Access to exclusive networking events and workshops',
 ]
 </script>

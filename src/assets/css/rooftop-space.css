@@ -1,0 +1,226 @@
+.rooftop-page{
+  background:#fff;
+}
+
+.rooftop-section{
+  padding:72px 0;
+}
+
+.rooftop-intro{
+  max-width:920px;
+  margin:0 auto;
+  text-align:center;
+}
+
+.rooftop-intro p{
+  margin:0;
+  font-size:1.08rem;
+  line-height:1.9;
+  color:#444;
+}
+
+.rooftop-highlights{
+  background:#f8f8f8;
+}
+
+.rooftop-card{
+  height:100%;
+  background:#fff;
+  border-radius:18px;
+  padding:34px 28px;
+  text-align:center;
+  box-shadow:0 12px 28px rgba(0,0,0,0.08);
+  transition:transform .3s ease, box-shadow .3s ease;
+}
+
+.rooftop-card:hover{
+  transform:translateY(-6px);
+  box-shadow:0 16px 34px rgba(0,0,0,0.12);
+}
+
+.rooftop-card i{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:68px;
+  height:68px;
+  border-radius:50%;
+  background:#fff5d5;
+  color:#d79b01;
+  font-size:1.8rem;
+  margin-bottom:18px;
+}
+
+.rooftop-card h3{
+  font-size:1.2rem;
+  font-weight:800;
+  margin:0 0 12px 0;
+  color:#111;
+}
+
+.rooftop-card p{
+  margin:0;
+  color:#555;
+  line-height:1.75;
+}
+
+.rooftop-slider{
+  padding-top:16px;
+  padding-bottom:16px;
+}
+
+.rooftop-carousel-wrap{
+  width:100%;
+  max-width:100%;
+  margin:0;
+  overflow:hidden;
+  box-shadow:0 10px 28px rgba(0,0,0,0.12);
+  background:#000;
+}
+
+#rooftopCarousel{
+  width:100%;
+}
+
+.rooftop-carousel-img{
+  width:100%;
+  height:clamp(320px, 70vh, 650px);
+  object-fit:cover;
+  object-position:center;
+  display:block;
+}
+
+.rooftop-rates{
+  background:linear-gradient(180deg, #ffffff 0%, #fffdf5 100%);
+}
+
+.rooftop-rates-heading{
+  margin-bottom:34px;
+}
+
+.rooftop-rates-heading h2{
+  font-weight:800;
+  margin:14px 0 0 0;
+  color:#111;
+}
+
+.rooftop-label{
+  display:inline-block;
+  padding:10px 18px;
+  border-radius:999px;
+  background:#fff5d5;
+  color:#d79b01;
+  font-weight:800;
+  letter-spacing:1px;
+  text-transform:uppercase;
+  font-size:0.9rem;
+}
+
+.rooftop-rate-card,
+.rooftop-extra-card{
+  background:#111;
+  color:#fff;
+  border:2px solid #d79b01;
+  border-radius:22px;
+  padding:34px 28px;
+  box-shadow:0 14px 30px rgba(0,0,0,0.12);
+}
+
+.rooftop-rate-card h3{
+  font-size:1.35rem;
+  font-weight:800;
+  color:#d79b01;
+  margin:0 0 22px 0;
+  text-align:center;
+}
+
+.rooftop-rate-card ul,
+.rooftop-extra-card ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+.rooftop-rate-card li,
+.rooftop-extra-card li{
+  font-size:1.2rem;
+  line-height:1.9;
+  padding:10px 0;
+  text-align:center;
+  letter-spacing:0.2px;
+}
+
+.rooftop-extras{
+  margin-top:38px;
+  margin-bottom:18px;
+}
+
+.rooftop-book-wrap{
+  display:flex;
+  justify-content:center;
+  margin-top:34px;
+}
+
+.rooftop-book-btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:16px 34px;
+  border-radius:999px;
+  background:linear-gradient(135deg, #f7d774, #d79b01);
+  color:#111;
+  font-weight:800;
+  text-decoration:none;
+  text-transform:uppercase;
+  letter-spacing:.7px;
+  box-shadow:0 10px 24px rgba(215,155,1,0.28);
+  transition:transform .3s ease, box-shadow .3s ease;
+}
+
+.rooftop-book-btn:hover{
+  color:#111;
+  transform:translateY(-3px);
+  box-shadow:0 14px 28px rgba(215,155,1,0.38);
+}
+
+@media (max-width: 991.98px){
+  .rooftop-section{
+    padding:56px 0;
+  }
+
+  .rooftop-carousel-img{
+    height:clamp(280px, 55vh, 520px);
+  }
+
+  .rooftop-rate-card li,
+  .rooftop-extra-card li{
+    font-size:1.08rem;
+  }
+}
+
+@media (max-width: 575.98px){
+  .rooftop-card,
+  .rooftop-rate-card,
+  .rooftop-extra-card{
+    padding:26px 20px;
+  }
+
+  .rooftop-carousel-img{
+    height:clamp(220px, 38vh, 360px);
+  }
+
+  .rooftop-rate-card h3{
+    font-size:1.15rem;
+  }
+
+  .rooftop-rate-card li,
+  .rooftop-extra-card li{
+    font-size:1rem;
+    line-height:1.75;
+  }
+
+  .rooftop-book-btn{
+    width:100%;
+    max-width:380px;
+  }
+}
